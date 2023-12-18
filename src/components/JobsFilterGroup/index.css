@@ -3,6 +3,8 @@
   flex-direction: column;
   justify-content: center;
   margin-left: 15px;
+  position: absolute;
+  
 }
 .salary-heading {
   color: #fff;
